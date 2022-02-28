@@ -10,5 +10,11 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         Log.i("welcome","welcome")
         Log.i("hgjhg","ghjgjhgjh")
+        Log.i("welcome","welcome")
+        Log.i("hgjhg","ghjgjhgjh")
+        Log.i("welcome","welcome")
+        Log.i("hgjhg","ghjgjhgjh")
+        Log.i("welcome","welcome")
+        Log.i("hgjhg","ghjgjhgjh")
     }
 }
